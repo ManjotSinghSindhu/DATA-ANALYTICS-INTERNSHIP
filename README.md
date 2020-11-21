@@ -23,3 +23,12 @@ Data cleaning is the process of fixing or removing incorrect, corrupted, incorre
 **Step 4 : Plotting of Data :**
 The purpose of plotting data is to visualize variation or show relationships between variables. We will now plot the line graph to display Humidity and Apparent Temperature(C) over 10 years(2006–2016).We will plot the graph to display average temperature and humidity for all 12 months over the 10 year period . Lets start from First month of the year
 
+
+
+**Recognizing Handwritten Digits with scikit-learn**
+
+Recognizing handwritten text is a problem that can be traced back to the first automatic machines that needed to recognize individual characters in handwritten documents. Classifying handwritten text or numbers is important for many real-world scenarios. For example, a postal service can scan postal codes on envelopes to automate the grouping of envelopes which has to be sent to the same place. This article presents recognizing the handwritten digits (0 to 9) using the famous digits data set from Scikit-Learn.
+
+Scikit-Learn is a library for Python that contains numerous useful algorithms that can easily be implemented and altered for the purpose of classification and other machine learning tasks.
+
+We will build a model using Scikit-Learn, train the model, make predictions with it, and finding the accuracy of our prediction(which in our case is 100%).
